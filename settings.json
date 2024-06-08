@@ -1,0 +1,50 @@
+{
+    "bot": {
+      "token": "",
+      "id": "",
+      "mongoURI": "",
+      "status": {
+        "activity": "playing",
+        "text": "Şuanda %onDutyPolice% kişi mesaide.",
+        "status": "online",
+        "twitch": "https://www.twitch.tv/yourchannel"
+      }
+    },
+    "guild": {
+      "id": ""
+    },
+    "settings": {
+      "departmentName": "LSPD",
+      "departmentLogo": "https://media.discordapp.net/attachments/1247031326415126548/1247716845897781338/DALLE_2024-06-05_03.49.15_-_Create_a_logo_similar_to_the_Los_Santos_Police_Department_logo_featuring_a_circular_badge_with_a_dark_blue_background_gold_border_and_an_eagle_with.webp?ex=66610a5d&is=665fb8dd&hm=2a47874d43d66876c62a6c634eaf7d3170af274e805cde7cad8920bd31c36fd5&=&format=webp&width=468&height=468",
+      "departmentBanner": "https://media.discordapp.net/attachments/1247031326415126548/1247716729749110814/LSPD.png?ex=66610a41&is=665fb8c1&hm=fad607b6678087bad5a7d58d5d51011f137b0e6fd7cd4a3d8a0be1d7aa2a955e&=&format=webp&quality=lossless&width=550&height=171",
+      "departmentColor": "#FF5733",
+      "emojis": {
+        "on": "✅",
+        "off": "❌",
+        "warning": "⚠️",
+        "clock": "⏰",
+        "department": "🏢",
+        "info": "ℹ️"
+      },
+      "roles": {
+        "officers": [
+          "",
+          "",
+          ""
+        ]
+      },
+      "channels": {
+        "log": ""
+      }
+    },
+    "commands": {
+      "activeDuty": {
+        "requiredRole": ""
+      }
+    },
+    "web": {
+        "hostname": "localhost",
+        "port": "3000"
+    }
+  }
+  
